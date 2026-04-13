@@ -2,9 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Update otomatis setiap jam 00:00 UTC (sekitar jam 07:00 WIB)
     - cron: '0 0 * * *'
-  # Memungkinkan kamu untuk menjalankan script ini secara manual
   workflow_dispatch:
 
 jobs:
