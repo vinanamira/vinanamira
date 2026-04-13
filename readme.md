@@ -56,11 +56,6 @@
 
 <!-- Activity Section -->
  # Activity Last Year
- 
-<p>
-
-
-</p>
 
 <br/>
 
